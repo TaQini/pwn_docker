@@ -19,6 +19,8 @@ install CTFd-whale first: [CTFd-Whale 推荐部署实践](https://www.zhaoj.in/r
 add a Dynamic docker challenge with following configure:
 
 > Docker Image: docker_REPOSITORY_name
+> 
 > Frp Redirect Type: Direct
+> 
 > Frp Redirect Port: 9999
 
